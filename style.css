@@ -12,6 +12,10 @@ body{
     flex-direction: column;
 }
 
+/*
+================== Fix header, hero, and information section alignment + overflow issue ====================
+*/
+
 /*---------------SHARED----------------*/
 .header, .content, .footer{
     display: flex;
