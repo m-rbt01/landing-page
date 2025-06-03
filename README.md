@@ -19,4 +19,5 @@ The landing page used images from the following artists:
 * Doorknob image - by [CJ](https://pixabay.com/users/cj-83527/)
 
 ## Contact
-Christian Donjuan - chdonjuan.1@gmail.com
+Christian Donjuan - chdonjuan.1@gmail.com \
+Project live preview: https://m-rbt01.github.io/landing-page/
