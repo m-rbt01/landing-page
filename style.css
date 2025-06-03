@@ -91,6 +91,10 @@ button, .welcome-card{
     font-size: 48px;
 }
 
+.sub-text{
+    margin-bottom: 4px;
+}
+
 .hero-text button{
     border-width: 0px;
 }
@@ -171,6 +175,7 @@ button, .welcome-card{
 .welcome-card{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 250px;
     padding: 16px 48px;
 }
